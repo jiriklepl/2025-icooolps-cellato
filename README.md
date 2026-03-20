@@ -59,6 +59,7 @@ With zero-overhead abstractions powered by template metaprogramming, Cellato let
 | **Forest Fire**        | Tree ↔ Fire ↔ Ash ↔ Empty (von Neumann)   | [`src/fire/algorithm.hpp`](./src/fire/algorithm.hpp)            |
 | **WireWorld**          | Digital circuit simulator (4 states)      | [`src/wire/algorithm.hpp`](./src/wire/algorithm.hpp)            |
 | **Greenberg–Hastings** | Excitable medium with refractory states   | [`src/greenberg/algorithm.hpp`](./src/greenberg/algorithm.hpp)       |
+| **Brian's Brain**      | Excitable CA with on/off/dying states      | [`src/brian/algorithm.hpp`](./src/brian/algorithm.hpp) |
 
 ### 🔗 Related Work
 
